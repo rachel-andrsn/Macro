@@ -40,7 +40,6 @@ To replicate the results from this repository, follow the steps below.
 2. **Required tools:** 
    - [Git](https://git-scm.com/) (for cloning the repository)
    - [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/) (for installing dependencies)
-   - [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) (optional, for managing virtual environments)
 
 ### Clone the Repository
 
