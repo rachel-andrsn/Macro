@@ -4,6 +4,8 @@ LSE EC1B1 - Microeconomics (2024/25)
 
 **Given country:** France
 
+**Group Number:** 1
+
 **Date**: 22/03/25
 
 **Authors**: Amelia Dunn, Rachel Anderson, Haniah Salad, Clara Magryous
