@@ -1,1 +1,1 @@
-# Macro
+# Macroeconomics coursework
