@@ -42,13 +42,19 @@ To replicate the results from this repository, follow the steps below.
    - [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/) (for installing dependencies)
    - [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) (optional, for managing virtual environments)
 
-### Step 1: Clone the Repository
+### Clone the Repository
 
 First, clone the repository to your local system using the following command in terminal:
 
 ```bash
-git clone https://github.com/rachel-andrsn/Macro.git  
+git clone https://github.com/rachel-andrsn/Macro.git 
 ```
+
+### Install the required dependencies:
+    ```bash
+    cd Macro
+    pip install -r requirements.txt
+    ```
 
 ### Running the code:
 
@@ -59,4 +65,5 @@ jupyter notebook
 ```
 
 Then, navigate to the relevant notebook file and run the cells to replicate the analysis interactively.
+
 
