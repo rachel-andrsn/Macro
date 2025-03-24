@@ -28,3 +28,35 @@ Macro/
     └── ... # Figures referenced in notebooks
 
 ```
+
+## Replicating the Results from the Repository
+
+To replicate the results from this repository, follow the steps below.
+
+### Prerequisites
+
+1. **Python version:** Ensure that you are using Python 3.7 or later.
+
+2. **Required tools:** 
+   - [Git](https://git-scm.com/) (for cloning the repository)
+   - [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/) (for installing dependencies)
+   - [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) (optional, for managing virtual environments)
+
+### Step 1: Clone the Repository
+
+First, clone the repository to your local system using the following command in terminal:
+
+```bash
+git clone https://github.com/rachel-andrsn/Macro.git  
+```
+
+### Running the code:
+
+If you're working with Jupyter notebooks, you can start the notebook server with:
+
+```bash
+jupyter notebook
+```
+
+Then, navigate to the relevant notebook file and run the cells to replicate the analysis interactively.
+
